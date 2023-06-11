@@ -62,7 +62,90 @@
 
 //HomeWork
 
-// Quests 
+// Quests 2
 // Дается два числа и надо понять , какое из чисел больше
-System.Console.WriteLine("Введите числа");
-int n = Convert.ToInt32(Console.ReadLine() );
+
+// a = 5; b = 7 -> max = 7
+// a = 2 b = 10 -> max = 10
+// a = -9 b = -3 -> max = -3
+
+
+// int max = 0;
+// int min = 0;
+
+// Console.Write("Введите первое число: ");
+// int firstNumber = Convert.ToInt32(Console.ReadLine());
+
+// Console.Write("Введите второе число: ");
+// int secondNumber = Convert.ToInt32(Console.ReadLine());
+
+// if(firstNumber > secondNumber)
+// {
+//     max = firstNumber;
+//     min = secondNumber;
+// }
+// else
+// {
+//     max = secondNumber;
+//     min = firstNumber;
+// }
+// Console.WriteLine("max = " + max + " и " + "min = " + min);
+
+//Quests 4
+// Дается 3 числа и надо выбрать максимальное число
+
+//2, 3, 7 -> 7
+// 44 5 78 -> 78
+// 22 3 9 -> 22
+
+// int  max = 0; 
+
+// Console.WriteLine ("Введите первое число");
+// int firstNumber = Convert.ToInt32(Console.ReadLine());
+
+// Console.WriteLine ("Введите второе число");
+// int secondNumber = Convert.ToInt32(Console.ReadLine());
+ 
+// Console.WriteLine ("Введите третье число");
+// int thirdNumber = Convert.ToInt32(Console.ReadLine());
+
+// if (firstNumber > max);
+
+// {
+//    max = firstNumber ;
+// }
+
+// {
+//    max = secondNumber ; 
+
+// }
+
+// {
+//    max = thirdNumber ;
+// }
+// Console.WriteLine ($"max = " + max );
+
+
+//Quest 6 
+// Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка)
+//4 -> да
+// -3 -> нет
+// 7 -> нет
+// System.Console.WriteLine("Введите число");
+//  int n = Convert.ToInt32(Console.ReadLine() );
+
+// int Remdiv = n % 2;
+
+// if(Remdiv == 0) 
+
+// {
+//     System.Console.WriteLine("Да");
+// }
+// else
+// {
+//     System.Console.WriteLine("Нет");
+// }
+
+// А вот 8 я хрен знает, голова и так сломана, когда будем веб сайты писать??? :)
+
+

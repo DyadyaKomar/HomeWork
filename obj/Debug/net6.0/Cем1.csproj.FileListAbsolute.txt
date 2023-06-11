@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\obj\Debug\net6.0\Cем1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\obj\Debug\net6.0\Cем1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\obj\Debug\net6.0\Cем1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\obj\Debug\net6.0\Cем1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\obj\Debug\net6.0\Cем1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\bin\Debug\net6.0\Cем1.exe
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\bin\Debug\net6.0\Cем1.deps.json
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\bin\Debug\net6.0\Cем1.runtimeconfig.json
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\bin\Debug\net6.0\Cем1.dll
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\bin\Debug\net6.0\Cем1.pdb
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\obj\Debug\net6.0\Cем1.dll
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\obj\Debug\net6.0\refint\Cем1.dll
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\obj\Debug\net6.0\Cем1.pdb
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\obj\Debug\net6.0\Cем1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#\СЕМИНАР1\sem1\Cем1\obj\Debug\net6.0\ref\Cем1.dll
